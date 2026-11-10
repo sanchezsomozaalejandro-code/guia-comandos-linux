@@ -43,3 +43,10 @@ Si encuentras dificultades al ejecutar comandos en la terminal, consulta la sigu
 [Saver más sobre Linuxs ](https://laptopwithlinux.com/linux-laptops/?msclkid=1c33680a9923102db7ba02f8bec90959)
 ![Simbolo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wY3hirmbTlhHpLzFzwQBdMTPoCTK34GgbjUYQd18Jwk3hwT09WncWFU&s=10)
 > Linux ofrece total libertad y control sobre el sistema, pero requiere una gestión rigurosa de permisos y copias de seguridad para garantizar su seguridad.
+# 6.Comprobación
+Para verificar el estado de los archivos creados o el espacio en disco disponible,puedes ejecutar comandos de validación rapida 
+bash
+```
+ls -la
+df -h
+```
